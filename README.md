@@ -1,1 +1,15 @@
-# dfir_reference
+# References for DFIR related stuffs
+
+* [Malware Traffic Analysis](http://www.malware-traffic-analysis.net/index.html)
+* [Tuts4you](https://tuts4you.com/download.php?list.29)
+* [Beginners.re](http://beginners.re/)
+* [Malware Reversing Tutorial](http://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
+* [IDAPython Book](https://leanpub.com/IDAPython-Book)
+* [Open Security Training](http://opensecuritytraining.info/Training.html)
+* [Hacker Rank](https://www.hackerrank.com/)
+* [RMusser01 Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
+* [Reverse Malware Cheatsheet](https://zeltser.com/reverse-malware-cheat-sheet/)
+* [CrackMES](http://crackmes.de/)
+* [So you want to be a mwlare analyst?](https://blog.malwarebytes.org/intelligence/2012/09/so-you-want-to-be-a-malware-analyst/)
+* [Simple Sound Yara Rules Part 1](https://www.bsk-consulting.de/2015/02/16/write-simple-sound-yara-rules/)
+  * [Simple Sound Yara Rules Part 2](https://www.bsk-consulting.de/2015/10/17/how-to-write-simple-but-sound-yara-rules-part-2/)
