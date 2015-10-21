@@ -1,5 +1,7 @@
 # References for DFIR related stuffs
 
+* [CYINT Resources](http://www.cyintanalysis.com/resources/)
+* [DFIR Tools for the frugal and lazy](http://postmodernsecurity.com/2015/09/11/malware-analysis-and-incident-response-tools-for-the-frugal-and-lazy/)
 * [Malware Traffic Analysis](http://www.malware-traffic-analysis.net/index.html)
 * [Tuts4you](https://tuts4you.com/download.php?list.29)
 * [Beginners.re](http://beginners.re/)
